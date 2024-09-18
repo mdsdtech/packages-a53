@@ -1,20 +1,10 @@
-# ImmortalWrt Mediatek Filogic Packages
+# ImmortalWrt A53 Packages
 
-This repository contains packages for the Mediatek Filogic target in the ImmortalWrt firmware. These packages are available for download from the ImmortalWrt snapshots repository.
+This repository contains packages for the A53 target in the ImmortalWrt firmware. These packages are available for download from the ImmortalWrt snapshots repository.
 
 ## Overview
 
-The Mediatek Filogic target in ImmortalWrt provides a variety of packages tailored for devices utilizing Mediatek Filogic chipsets. The snapshots include both core packages and additional software that enhances the functionality and performance of your device.
-
-## Directory Structure
-
-The packages are organized into directories based on their categories. Here is an overview of the directory structure:
-
-- `base`: Core packages required for the basic operation of ImmortalWrt on Mediatek Filogic devices.
-- `luci`: Web interface packages for configuring and managing ImmortalWrt.
-- `packages`: Additional software packages that can be installed to extend the capabilities of your device.
-- `routing`: Routing-related packages that provide advanced networking features.
-- `telephony`: Packages related to telephony and communication features.
+The A53 target in ImmortalWrt provides a variety of packages tailored for devices utilizing A53 chipsets. The snapshots include both core packages and additional software that enhances the functionality and performance of your device.
 
 ## Getting Started
 
