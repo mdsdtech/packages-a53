@@ -21,7 +21,9 @@ A. Option 1:
 3. **Configuration**: After installation, configure the packages as needed. Configuration files and instructions are typically provided with each package.
 
 B. Option 2:
-1. 
+1. Remove the line immortalwrt_core "src/gz immortalwrt_core https://downloads.immortalwrt.org/snapshots/targets/mediatek/filogic/packages" in repositories.conf.
+2 Replace the immortalwrt_core line with "src/gz immortalwrt_core https://raw.githubusercontent.com/mdsdtech/packages-a53/main/6.6.56"
+3. Save than run the update packages.
 
 ## Contributing
 
