@@ -22,7 +22,7 @@ A. Option 1:
 
 B. Option 2:
 1. Remove the line immortalwrt_core "src/gz immortalwrt_core https://downloads.immortalwrt.org/snapshots/targets/mediatek/filogic/packages" in repositories.conf.
-2 Replace the immortalwrt_core line with
+2. Replace the immortalwrt_core line with
 ```
 src/gz immortalwrt_core https://raw.githubusercontent.com/mdsdtech/packages-a53/main/6.6.56
 ```
