@@ -10,7 +10,8 @@ The A53 target in ImmortalWrt provides a variety of packages tailored for device
 
 To use these packages, follow these steps:
 
-1. **Download Packages**: Navigate to the desired directory (e.g., `base`, `luci`, etc.) and download the required package files.
+A. Option 1:
+1. **Download Packages**: Navigate to the desired directory and download the required package files.
 
 2. **Install Packages**: Use the ImmortalWrt package management system to install the downloaded packages. Typically, this can be done using `opkg`, the package manager for ImmortalWrt. For example:
    ```sh
@@ -18,6 +19,9 @@ To use these packages, follow these steps:
    ```
 
 3. **Configuration**: After installation, configure the packages as needed. Configuration files and instructions are typically provided with each package.
+
+B. Option 2:
+1. 
 
 ## Contributing
 
